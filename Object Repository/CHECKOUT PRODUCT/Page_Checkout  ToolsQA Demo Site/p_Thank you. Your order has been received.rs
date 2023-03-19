@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Thank you. Your order has been received</name>
+   <tag></tag>
+   <elementGuidId>9fd4c9c9-6c78-4272-b495-6209af05ce14</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.woocommerce-thankyou-order-received</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//article[@id='post-7']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e7922740-a02a-410c-94d0-20c703f9adc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>woocommerce-thankyou-order-received</value>
+      <webElementGuid>82ca5af6-7d04-4116-8b98-a9b280f1b558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you. Your order has been received.</value>
+      <webElementGuid>4da1c5b6-cf41-45e4-afee-38299ae1bc93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;post-7&quot;)/div[@class=&quot;entry-content&quot;]/div[@class=&quot;woocommerce&quot;]/div[@class=&quot;noo-checkout-complete&quot;]/p[@class=&quot;woocommerce-thankyou-order-received&quot;]</value>
+      <webElementGuid>e775f552-bbf4-4032-8e9c-cdc508ea961e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//article[@id='post-7']/div/div/div/p</value>
+      <webElementGuid>25b187a1-89a5-4eb5-9a2e-91e2f97b54b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Checkout'])[3]/following::p[1]</value>
+      <webElementGuid>1a61aee3-fd3a-4fbb-bc48-b7262afdb976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ToolsQA Demo Site'])[1]/following::p[1]</value>
+      <webElementGuid>b6706f9c-a5cf-4ad5-b533-682e6eadbed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thank you. Your order has been received.']/parent::*</value>
+      <webElementGuid>ab8cf835-36a4-4851-8f09-cbb228ad8748</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>79be2400-464c-4edc-b5b9-1faf564a2882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Thank you. Your order has been received.' or . = 'Thank you. Your order has been received.')]</value>
+      <webElementGuid>43ecac69-faf4-4a8c-bf28-f271f2af837c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
