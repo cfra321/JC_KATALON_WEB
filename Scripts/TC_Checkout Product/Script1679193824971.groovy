@@ -19,6 +19,8 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.maximizeWindow()
+
 WebUI.navigateToUrl('https://shop.demoqa.com/product/black-cross-back-maxi-dress/')
 
 WebUI.delay(3)
